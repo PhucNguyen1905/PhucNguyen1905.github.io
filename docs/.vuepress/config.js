@@ -34,7 +34,7 @@ module.exports = {
     lastUpdated: false,
 
     personalInfo: {
-      nickname: 'Mr. Happy',
+      nickname: 'Phúc Caca',
       description: 'Happy Coding<br/>Happy Life',
       email: 'ngtrongphuc1905@gmail.com',
       location: 'Ho Chi Minh City, VietNam',
