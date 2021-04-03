@@ -1,4 +1,3 @@
-const { description } = require('../../package')
 
 module.exports = {
   /**
@@ -9,7 +8,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
-  description: description,
+  description: "My simple blog",
 
   /**
    * Extra tags to be injected to the page HTML `<head>`
@@ -35,7 +34,7 @@ module.exports = {
     lastUpdated: false,
 
     personalInfo: {
-      nickname: 'Mr. Happy',
+      nickname: 'Phúc Caca',
       description: 'Happy Coding<br/>Happy Life',
       email: 'ngtrongphuc1905@gmail.com',
       location: 'Ho Chi Minh City, VietNam',
