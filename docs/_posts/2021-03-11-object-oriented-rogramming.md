@@ -59,7 +59,7 @@ Chúng ta có thể kể đến một vài ưu điểm của OOP như sau:
 Class giống như một bản thiết kế/khuôn mẫu (blueprint) và các đối tượng (objects) giống như những ngôi nhà
 xây nên từ bản thiết kế đó.
 
-->![Class and Objects](https://lh3.googleusercontent.com/atPbJys618p91RnmXX1Et-4XZtKLIg8lAsjHDUqdAetDyKUD9eG-jctbfXy8bSsLkzsgmOKhuSn3QJs_ibyUQi90y3AtxAtg7H-ze1qFv0eA5jHTzaz62IdpVUx0q7PoNSbffkMiGWOS95NRuBcaHbjcgVz_Mn5Yu7131GoVVAlVbKOrO-14GRdIFJ5KcFc0EKOWaaN_GavVUsC2h3zgqqHPWcQBrhI8Jr3NfgN-naTRZbv5NEKcIcfTq-u2sJCBBv_Wi2TeAuSyoGRpU8XdiZHldMFhlZ93t5TjAvAgZiZy4uChXoAZuNkvV64VPZtci-UJmVXyNXLVEyO3eWT67ihiW1ZJ3uvRHSU2KXXYOEaTrcOmPNvujcXkFCXideLFlsOmkwNcr6WXjetqXDw7Qy-9HNS3K4yarLwQ711QFLTkGCr6t0Ilx6YAQI7hg45JJmIYZMRtfejvPUYStm-EdoT5WezqlKqZ_ew72n63DLiur5m0u_0Yxa3M9gd7zvKjbPcrRckS9TSQhwWQr60QGTNJ3fR3msn3mFoy13_Z6sHaogk-5tyylrr8y1KcUolpzczBJRA03icb11Kt1q1OcwZYtrpqk5p3arYdjgKF2qBDI-WXJHY5p3x3Z0zrYKbmm1c86oRdpBPv0KYdXlYrAm-6F27B40Wdgw4Iv87Hwr7bhY7X35dC0VEHLfE6f_D9fhB_qPdU9bldEeaZMbu--c7i=w529-h357-no?authuser=1)<-
+->![Class and Objects](https://images2.imgbox.com/74/d4/1DjUoaMw_o.png)<-
 
 Ta có thể lấy ví dụ trực quan cho dễ hiểu như sau :)
 Khi nói về loài chó, bạn có thể hiểu nó là class (lớp) chó có:

@@ -21,7 +21,7 @@ Vì phần này cũng hơi khó giải thích, nên mình sẽ cố gắng nói 
 
 Đa hình hiểu theo nghĩa đen là nhiều hình dạng :).
 
-->![Shape](https://lh3.googleusercontent.com/Kx_dvadzXHX655WeJ1-Arp5tqKlbnAQ56qLJD1eSj2Yq704Uo3puL0G7gckI5UhdiyswBGt1eDgIQFb191azUpT1Qls9UdxDaJlr48BCOgXf-3nZyxTrxqvqwBGN_RW50LLFAfhqyWVirljNJyKGcJKUT68KaVK7ay3Jx-lN2B_Z09uQRMPnzx5lDjMSgnTHuAUmgwwmf7B5ybXM4P85yYR8s8wp78EyVObuQeGwDTEYc8NzfvI2GhhScCCLbPihR1qGBteUk4GdhFIn4KsYviGogx1VeWSGLjM_xu8EHkeQZ9_k9d6-oeQWSqwyjH4zMH0e79VeONRMsiGW5t2fhs5vJ42ZWOXMJ0M-a5nc6YLPZMZp6m1DLZdRBW4hfNKRarVzPrROlVNob-RrKncxvmYE1qkjcsc9h9oUvls9rYPW9bfYkjK9p7-pGODgkbXifP1D9EzghGDRi3muluaDG9GmXnuhf6eNzGqLz1txkC4PoRjeREbSETILUynG5cGKkTEMUcqhp3WHbqmHmtr-7bd8jt8TvPOusnv5o20DcWdieeJcCMBeLCIEO44YjT81tM_kaSsp25cqZ8aFmsUHgqxkkgEI07eUoZDdguUKWLmz47NlCbILCFDlV6353k_jdCP44Dih92HUh_mebYjkfeJgU2YqHRj0j-q500Feh44T8l6KHH6NlHOqsq9KPMHxoBcZWubgZctNJAxmtt9rU5Nz=w909-h538-no?authuser=1)<-
+->![Shape](https://images2.imgbox.com/d0/a0/VntEiqfU_o.png)<-
 
 Đối tượng Shape không thể vẽ một hình dạng, nó quá
 trừu tượng (Thực tế là phương thức Draw () trong Shape

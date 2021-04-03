@@ -57,7 +57,7 @@ class <CName> [: <access specifier> <BaseCName>] {
 Ta có thể thấy, class underGrad là class con, kế thừa từ class Student.
 
 ### Ví dụ về kế thừa
-->![Inheritance example](https://lh3.googleusercontent.com/hdq_mnKOSaf8hkiJ0otGOeFAIz_2iMASF0wtL0oL7yvLLFDDyOPfW_fX3LenwuAfvFhhw48lZnx6HRpQccHeD8D0S6pilFOqyvSZINH8Hg4YrwaZFOMiP1-6tWMoEEdfy_9aj2dk4R5LEbzMHTuIhYZ-6mKd7P9oGn5ljdObDyNT3u7462HmyauRubEyFpbNUwMGJf65tLG4jMbU72gt3m63b_XUE1fJ06Rd_AzPgdDwJkSb8hjUFOGEkn0Q4XDRJUZQ7YpKh5NXoa4IsO9txpQjiRFPFnISH_4v7EMgr6cTMHO91kE0a1_s8kPzOwxtJx2lI1xbvPcfzjxvV7irh4dyxS9Ne9Suw2O6A-kxVJmiMxKBLvt1j0fJtpyRRD54XhM7IVVJff7JxBB67I2ieAng7aydQMaGY2SRF_g9L3_nMdKVeRhK-R76qPgYKQaMciFSJmnt8SDko4iPXLPkhRRffsRMvYYpOmvVetXy43ajnOrj6mck3r28aBuOm5nYFR0OlSO0SIt_KR7VPnz_FxJIxKawxSQO83PxrlyIJRE2O_sGrG0KrusNIekyMvVt2q6XRSmhd7d0-Gary_v6DgzPvbZ8RgMFUb46JLoyNL7Px2MVaf2gTMIr3_uz1u5w08iKku_ORMZov7Ar5pBJlVey8GQz4zMpV5vJBHPrDeH-VL75NQ5RIlmzY2aVzOQBhDG_UtltmD-EbViSlr6-HH1q=w1025-h527-no?authuser=1)<-
+->![Inheritance example](https://images2.imgbox.com/8d/90/q5Pgh4WB_o.png)<-
 
 Trong đó, khai báo kế thừa sẽ như sau:
 ```cpp
