@@ -1,0 +1,20 @@
+{
+  "name": "PhucBlog",
+  "version": "0.0.1",
+  "description": "My Blog",
+  "main": "index.js",
+  "authors": {
+    "name": "Nguyen Trong Phuc",
+    "email": "ngtrongphuc1905@gmail.com"
+  },
+  "repository": "phucnt/PhucBlog",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3",
+    "vuepress-theme-meteorlxy": "^1.9.0"
+  }
+}
