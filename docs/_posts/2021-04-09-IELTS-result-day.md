@@ -52,7 +52,7 @@ Quá bất ngờ luôn =)). Cứ tưởng là đi tèo 4tr750 luôn rồi chứ.
 Dù điểm không cao nhưng mình cũng chia sẻ lại cách mình ôn thi nha :kissing_closed_eyes:.
 
 Mình bắt đầu TẬP TRUNG mọi thời gian cho việc ôn thi là vào *1 tháng* trước ngày thi.
-Mình sẽ chia sẽ theo từng kỹ năng và cũng chia sẻ thêm 1 số thói quen mà mình nghĩ là tốt
+Mình sẽ chia sẻ theo từng kỹ năng và cũng chia sẻ thêm 1 số thói quen mà mình nghĩ là tốt
 cho việc học Anh Văn :wink:.
 
 ### Listening
