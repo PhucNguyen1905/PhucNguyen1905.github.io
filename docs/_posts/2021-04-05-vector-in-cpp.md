@@ -58,6 +58,7 @@ tìm size,... và nhiều nhiều nữa sẽ có ở mục sau.
 ```cpp
 vector<type> name;
 vector<type> name(Size);
+vector<type> name(Size, value); //All elements will be equal value
 ```
 - Hàm trả về size: *vec.size()*
 - Khởi tạo vector A = vector B:
